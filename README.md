@@ -13,7 +13,7 @@ Certified in Cybersecurity [https://www.credly.com/badges/d1aa649e-9d5f-4803-be3
 <h3> Cybersecurity projects </h3>
 
 - <a>Implementation of a Lightweight Security Framework for Non-Profit and Private Organizations (AlgoExpert)</b>
-  - [Cybersecurity Framework Policy Document ]([https://docs.google.com/spreadsheets/d/1XuYnTD_aLQ9Lz23HX0iaKLC21NQTFPB4ryqD20z_x_8/edit?usp=drive_link](https://drive.google.com/file/d/1Zk1UvPMUURnckXbzgoLHEMTsLzUNSLft/view?usp=sharing))
+  - [Cybersecurity Framework Policy Document ](https://drive.google.com/file/d/1Zk1UvPMUURnckXbzgoLHEMTsLzUNSLft/view?usp=drive_link)
 
 - <b>VBScript</b>
   - [Windows EventLog: Eventlogs Archiving to a remote location or local folder ]. (https://drive.google.com/file/d/1iow2nsN-MaRlZ9zMF3D3WEC7u9eZmw_S/view?usp=sharing))
@@ -41,9 +41,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**yomy04/yomy04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on implementing Security policies on a non-profit and private organization while referencing the Security framework policy which aligns with Standards like  ISO27001, NIST and CIS Control
 - 🌱 I’m currently learning DevOps, DevSecAI an DevSecOp
