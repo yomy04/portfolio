@@ -6,14 +6,14 @@
 <h2>👨‍💻 Certifications </h2>
 
 Certified in Cybersecurity [https://www.credly.com/badges/d1aa649e-9d5f-4803-be3c-7a1df89980ca/linked_in_profile]
-CipherTrust Manager Professional Engineer [https://www.credential.net/29bf1882-8673-412f-b002-a12e290e7e84]
-Microsoft Certified: Azure Fundamentals [https://www.credly.com/badges/8997a919-dcd0-4e72-b4d4-95c580f5f196?source=linked_in_profile]
-Stratus 99.999 Certified Engineer [https://drive.google.com/file/d/1690RC9cWsWPKk9pZL26rJnMhnRUI4JZc/view?usp=sharing]
+<p>CipherTrust Manager Professional Engineer [https://www.credential.net/29bf1882-8673-412f-b002-a12e290e7e84]</p>
+<p>Microsoft Certified: Azure Fundamentals [https://www.credly.com/badges/8997a919-dcd0-4e72-b4d4-95c580f5f196?source=linked_in_profile]</p>
+<p>Stratus 99.999 Certified Engineer [https://drive.google.com/file/d/1690RC9cWsWPKk9pZL26rJnMhnRUI4JZc/view?usp=sharing]</p>
 
 <h3> Cybersecurity projects </h3>
 
 - <a>Implementation of a Lightweight Security Framework for Non-Profit and Private Organizations (AlgoExpert)</b>
-  - [Cybersecurity Framework Policy Document ](https://docs.google.com/spreadsheets/d/1XuYnTD_aLQ9Lz23HX0iaKLC21NQTFPB4ryqD20z_x_8/edit?usp=drive_link)
+  - [Cybersecurity Framework Policy Document ]([https://docs.google.com/spreadsheets/d/1XuYnTD_aLQ9Lz23HX0iaKLC21NQTFPB4ryqD20z_x_8/edit?usp=drive_link](https://drive.google.com/file/d/1Zk1UvPMUURnckXbzgoLHEMTsLzUNSLft/view?usp=sharing))
 
 - <b>VBScript</b>
   - [Windows EventLog: Eventlogs Archiving to a remote location or local folder ]. (https://drive.google.com/file/d/1iow2nsN-MaRlZ9zMF3D3WEC7u9eZmw_S/view?usp=sharing))
