@@ -8,7 +8,7 @@
 Certified in Cybersecurity [https://tinyurl.com/prrekxfk]
 <p>CipherTrust Manager Professional Engineer [https://tinyurl.com/yeyr4up8]</p>
 <p>Microsoft Certified: Azure Fundamentals [https://tinyurl.com/yd87mxe2]</p>
-<p>Stratus 99.999 Certified Engineer [https:tinyurl.com/yd87mxe2]</p>
+<p>Stratus 99.999 Certified Engineer [https://tinyurl.com/yd87mxe2]</p>
 
 <h3> Cybersecurity projects </h3>
 
@@ -16,7 +16,7 @@ Certified in Cybersecurity [https://tinyurl.com/prrekxfk]
   - [Cybersecurity Framework Policy Document ](https://tinyurl.com/3sme8fnz)
 
 - <b>VBScript</b>
-  - [Windows EventLog: Eventlogs Archiving to a remote location or local folder ]. (https://tinyurl.com/42bn8vb9))
+  - [Windows EventLog: Eventlogs Archiving to a remote location or local folder ](https://tinyurl.com/42bn8vb9))
 
 
 <h2> 🤳 Connect with me:</h2>
