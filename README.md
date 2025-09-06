@@ -5,18 +5,18 @@
 
 <h2>👨‍💻 Certifications </h2>
 
-Certified in Cybersecurity [https://www.credly.com/badges/d1aa649e-9d5f-4803-be3c-7a1df89980ca/linked_in_profile]
-<p>CipherTrust Manager Professional Engineer [https://www.credential.net/29bf1882-8673-412f-b002-a12e290e7e84]</p>
-<p>Microsoft Certified: Azure Fundamentals [https://www.credly.com/badges/8997a919-dcd0-4e72-b4d4-95c580f5f196?source=linked_in_profile]</p>
-<p>Stratus 99.999 Certified Engineer [https://drive.google.com/file/d/1690RC9cWsWPKk9pZL26rJnMhnRUI4JZc/view?usp=sharing]</p>
+Certified in Cybersecurity [https://tinyurl.com/prrekxfk]
+<p>CipherTrust Manager Professional Engineer [https://tinyurl.com/yeyr4up8]</p>
+<p>Microsoft Certified: Azure Fundamentals [https://tinyurl.com/yd87mxe2]</p>
+<p>Stratus 99.999 Certified Engineer [https:tinyurl.com/yd87mxe2]</p>
 
 <h3> Cybersecurity projects </h3>
 
 - <a>Implementation of a Lightweight Security Framework for Non-Profit and Private Organizations (AlgoExpert)</b>
-  - [Cybersecurity Framework Policy Document ](https://drive.google.com/file/d/1Zk1UvPMUURnckXbzgoLHEMTsLzUNSLft/view?usp=drive_link)
+  - [Cybersecurity Framework Policy Document ](https://tinyurl.com/3sme8fnz)
 
 - <b>VBScript</b>
-  - [Windows EventLog: Eventlogs Archiving to a remote location or local folder ]. (https://drive.google.com/file/d/1iow2nsN-MaRlZ9zMF3D3WEC7u9eZmw_S/view?usp=sharing))
+  - [Windows EventLog: Eventlogs Archiving to a remote location or local folder ]. (https://tinyurl.com/42bn8vb9))
 
 
 <h2> 🤳 Connect with me:</h2>
