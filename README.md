@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on implementing Security policies on a non-profit and private organization while referencing the Security framework policy which aligns with Standards like  ISO27001, NIST and CIS Control
-- 🌱 I’m currently learning DevOps, DevSecAI an DevSecOp
+- 🌱 I’m currently learning DevOps, DevSecAI and DevSecOp
 - 👯 I’m looking to collaborate on Cybersecurity and FinTech project implementations to strengthen the security outlook of the organizations involved and comply with PCIDSS, HIPAA and GDPR
 - 🤔 I’m looking for help with Job placements, internship and referrals to showcase my skills and knowledge and ultimately land a relevant job to make a postive difference
 - 💬 Ask me about ISO8583, ISO27001, NIST, PCIDSS, PADSS, HIPAA and GDPR
