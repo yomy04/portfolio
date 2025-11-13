@@ -5,7 +5,8 @@
 
 <h2>👨‍💻 Certifications </h2>
 
-Certified in Cybersecurity [https://tinyurl.com/prrekxfk]
+<p>CompTIA Security + [https://tinyurl.com/t8b6b87d)]</p>
+<p>Certified in Cybersecurity [https://tinyurl.com/prrekxfk]</p>
 <p>CipherTrust Manager Professional Engineer [https://tinyurl.com/yeyr4up8]</p>
 <p>Microsoft Certified: Azure Fundamentals [https://tinyurl.com/yd87mxe2]</p>
 <p>Stratus 99.999 Certified Engineer [https://tinyurl.com/yd87mxe2]</p>
