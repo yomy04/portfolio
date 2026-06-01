@@ -2,16 +2,17 @@
 ## Hi there 👋
 
 <h1>Hi, I'm Oluseye! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https:/https://www.linkedin.com/in/oluseye-ogunbodede-5457213b//">Cybersecurity Professional</a>
+<h2> My Cybersecurity GRC portfolio [https://joinprovn.com/p/oluseye]
+<h3>👨‍💻 Certifications </h2>
 
-<h2>👨‍💻 Certifications </h2>
-
+<p> ISO 42001:2023 Lead Auditor [https://tinyurl.com/3x4d9eyn] </p>
 <p>CompTIA Security + [https://tinyurl.com/t8b6b87d)]</p>
 <p>Certified in Cybersecurity [https://tinyurl.com/prrekxfk]</p>
 <p>CipherTrust Manager Professional Engineer [https://tinyurl.com/yeyr4up8]</p>
 <p>Microsoft Certified: Azure Fundamentals [https://tinyurl.com/yd87mxe2]</p>
 <p>Stratus 99.999 Certified Engineer [https://tinyurl.com/yd87mxe2]</p>
 
-<h3> Cybersecurity projects </h3>
+<h4> Cybersecurity projects </h3>
 
 - <a>Implementation of a Lightweight Security Framework for Non-Profit and Private Organizations (AlgoExpert)</b>
   - [Cybersecurity Framework Policy Document ](https://tinyurl.com/3sme8fnz)
